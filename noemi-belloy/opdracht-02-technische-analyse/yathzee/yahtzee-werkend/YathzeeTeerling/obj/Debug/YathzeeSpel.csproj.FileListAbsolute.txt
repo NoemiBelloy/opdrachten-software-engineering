@@ -40,3 +40,5 @@ C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineeri
 C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.Properties.Resources.resources
 C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.TeerlingView.resources
 C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeSpel.csproj.GenerateResource.Cache
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\bin\Debug\YathzeeTeerling.exe
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\bin\Debug\YathzeeTeerling.pdb

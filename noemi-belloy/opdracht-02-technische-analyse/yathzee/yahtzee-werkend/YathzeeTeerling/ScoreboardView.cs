@@ -12,10 +12,11 @@ namespace YathzeeTeerling
 {
     public partial class ScoreboardView : UserControl
     {
-        private ScoreboardController controller;
-        public ScoreboardView( ScoreboardController c)
+       // private ScoreboardController controller;
+        public ScoreboardView( //ScoreboardController c)
+            )
         {
-            controller = c;
+            //controller = c;
             InitializeComponent();
         }
 
@@ -31,7 +32,7 @@ namespace YathzeeTeerling
 
         public void updateView()
         {
-            aantalWorpenLabel.Text = controller.HuidigAantalWorpen.ToString();
+            //aantalWorpenLabel.Text = controller.HuidigAantalWorpen.ToString();
         }
     }
 }
