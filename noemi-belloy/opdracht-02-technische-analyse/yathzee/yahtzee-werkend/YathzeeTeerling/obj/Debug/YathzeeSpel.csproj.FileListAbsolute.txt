@@ -30,3 +30,13 @@ C:\Users\Noemi\Documents\MCT2\software-engineering\yahtzee-werkend\YathzeeTeerli
 C:\Users\Noemi\Documents\MCT2\software-engineering\noemi-belloy\opdracht-03-versiebeheer\yahtzee-werkend\YathzeeTeerling\bin\Debug\YathzeeTeerling.exe.config
 C:\Users\Noemi\Documents\MCT2\software-engineering\noemi-belloy\opdracht-03-versiebeheer\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.exe
 C:\Users\Noemi\Documents\MCT2\software-engineering\noemi-belloy\opdracht-03-versiebeheer\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.pdb
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\bin\Debug\YathzeeTeerling.exe.config
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.exe
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.pdb
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeSpel.csprojResolveAssemblyReference.cache
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.ScoreboardView.resources
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.YahtzeeView.resources
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.Yathzee.resources
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.Properties.Resources.resources
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeTeerling.TeerlingView.resources
+C:\Users\Noemi\Documents\MCT2\software-engineering\opdrachten-software-engineering - kopie\noemi-belloy\opdracht-02-technische-analyse\yathzee\yahtzee-werkend\YathzeeTeerling\obj\Debug\YathzeeSpel.csproj.GenerateResource.Cache

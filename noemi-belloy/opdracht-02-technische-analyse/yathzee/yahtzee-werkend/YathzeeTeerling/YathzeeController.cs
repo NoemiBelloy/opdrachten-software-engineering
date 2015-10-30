@@ -82,5 +82,21 @@ namespace YathzeeTeerling
         teerling.getView().updateUI();
       }
     }
+
+    public void PasScoreAan()
+        {
+            List<TeerlingController> teerlingen = _model.Teerlingen;
+            int alleOgen = 0;
+            foreach (TeerlingController teerling in teerlingen)
+            {
+                alleOgen += teerling._model.Aantalogen;
+            }
+            _model.Score = alleOgen;
+            if (alleOgen > _model.Highscore)
+            {
+                _model.Highscore = alleOgen;
+            }
+            _view.updateScore();
+        }
   }
 }

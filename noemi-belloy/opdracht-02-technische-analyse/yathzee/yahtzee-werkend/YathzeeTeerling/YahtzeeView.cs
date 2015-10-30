@@ -57,7 +57,7 @@ namespace YathzeeTeerling
       }
     }
 
-        private void gooiAlleTeerlingen_Click(object sender, EventArgs e)
+    private void gooiAlleTeerlingen_Click(object sender, EventArgs e)
         {
             _controller.getModel().AantalWorpen++;
             if (_controller.getModel().AantalWorpen <= _controller.getModel().MaxAantalWorpen)
@@ -68,6 +68,12 @@ namespace YathzeeTeerling
                     startOpnieuw.Visible = true;
                 }
             }
+        }
+
+    public void updateScore()
+        {
+            //score.Text = "Huidige worp: " + _controller.getModel().Score;
+            //highscore.Text = "Highscore: " + _controller.getModel().Highscore;
         }
     }
 }
